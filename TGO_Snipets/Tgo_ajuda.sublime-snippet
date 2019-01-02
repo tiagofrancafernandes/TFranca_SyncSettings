@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+
+---------INÍCIO DE AJUDA------------
+pt:help 	= Chama pt:ajuda
+pt:ajuda 	= Mostra ajuda
+pt:html 	= Estrutura HTML simples
+pt:html5 	= Estrutura HTML5
+pt:bs4 		= Estrutura CDN Bootstrap 4
+pt:p 		= Parágrafo com classe editável
+pt:title	= Título editável
+pt:span		= Span com classe editável
+pt:div 		= Div com classe editável
+
+---------FIM DE AJUDA------------
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pt:ajuda</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
