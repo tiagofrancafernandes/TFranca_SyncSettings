@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"A File Icon"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Emmet",
+		"File Rename",
+		"FileIcons",
+		"Highlight",
+		"Highlight Build Errors",
+		"Highlighter",
+		"HighlightWords",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"Package Control",
+		"phpfmt",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SQLTools",
+		"SyntaxHighlightTools",
+		"Tagger Script Syntax",
+		"TerminalView"
+	]
+}

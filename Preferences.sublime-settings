@@ -1,0 +1,11 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"A File Icon",
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}
