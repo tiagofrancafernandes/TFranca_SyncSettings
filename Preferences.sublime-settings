@@ -5,6 +5,12 @@
 	"ignored_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"HighlightWords",
+		"ProjectManager",
+		"SideBarEnhancements",
 		"Vintage"
 	],
 	"theme": "Adaptive.sublime-theme"
